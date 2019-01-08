@@ -1,5 +1,6 @@
 manipulation.hs
 
+import Data.List
 stringManip :: String -> Integer -> String
 stringManip str x
     | even x = str
