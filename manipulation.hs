@@ -1,4 +1,4 @@
-manipulation.hs
+SSmanipulation.hs
 
 import Data.List
 stringManip :: String -> Integer -> String
