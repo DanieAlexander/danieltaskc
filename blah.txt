@@ -1,6 +1,0 @@
-blah.txt  manipulation.hs
-
-
-big oof
-oof
-oof big
